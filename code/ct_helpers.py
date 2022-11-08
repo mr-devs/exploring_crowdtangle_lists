@@ -4,7 +4,6 @@ Some simple functions that will help to grab data from CrowdTangle
 import requests
 import time
 
-
 def ct_get_lists(api_token=None):
     """
     Retrieve all CrowdTangle lists, saved searches, and saved post lists
